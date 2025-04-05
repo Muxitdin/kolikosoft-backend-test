@@ -12,7 +12,7 @@
 ### 1. Клонировать репозиторий
 ```bash
 git clone https://github.com/Muxitdin/kolikosoft-backend-test.git
-cd your-repo
+cd kolikosoft-backend-test
 ```
 
 ### 2. Установить зависимости
